@@ -1,0 +1,47 @@
+Une histoire fantastique aux bases réalistes.
+
+Notre jeu se déroule dans le futur.
+
+Dans notre monde, l'argent n'a pas été inventé, seul l'échange de service et d'objets est nécessaire pour progresser!
+
+Suite à l'effondrement monétaire, le monde sombre petit à petit dans le chaos:
+les hommes se déchirent les dernières ressources, la conquête de l'espace étant devenue la priorité pour
+préserver la vie humaine, la Terre se voit de plus en plus hostile et abandonnée pour les stations spatiales
+et les colonies de la Lune et de Mars.
+
+Dans un dernier espoir, une mission de colonie spatiale est déployée en direction du système stellaire et
+planétaire le plus proche de la Terre au sein de la Voie Lactée: Alpha Centauri, dans la constellation du
+Centaure.
+En orbite de l'étoile naine rouge Proxima Centauri, Proxima C fût classée dans les années 2000 comme
+exoplanète de type super-Terre froide, ce qui en fut la destination idéale de la colonie "The Last Hope".
+En effet d'après les observations d'Hubble, développer par la NASA vers 1990, Proxima se voit attribuer
+des propriétés de bases semblable à la Terre, tel que roche, hydrogène, carbone... 
+
+Après la maitrise de la fission et de nombreuses autres technologies vers 2025, le voyage de plusieurs
+années-lumière fut réduis à 70 ans.
+La colonie de 110 embryons, nombres minimum nécessaire pour la réussite de repeuplement, est gérer par une
+IA développée spécialement pour le voyage.
+
+1)Arrivée à destination, la navette se voit téléporter les jeunes humains dont l'éducation fut déclenchée une
+vingtaine d'années avant leur arrivée sur Proxima.
+2)Arrivée à destination, la navette se voit lâcher des 'cocons' transportant les jeunes humains dont
+l'éducation fut déclenchée une vingtaine d'années avant leur arrivée sur Proxima.
+
+Mapp de départ: vous commencerez donc l'aventure sans rien, à vous de créer vos outils et armures!
+
+
+
+
+Rôle du concepteur de jeux vidéo :
+Le concepteur de jeux vidéo coordonne des équipes du projet de jeu à son aboutissement. Pour proposer un jeu le plus attractif possible, il va :
+• écrire une histoire,
+• imaginer des personnages,
+• inventer ou reproduire des décors,
+• créer un scénario,
+• définir des règles,
+• proposer des niveaux de difficulté différents,
+• vérifier que les coûts de création entrent dans le budget alloué,
+• faire tester un prototype,
+• apporter des améliorations.
+
+

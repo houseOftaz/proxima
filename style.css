@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:wght@100&family=Cinzel&display=swap');
+body {
+  font-family: 'Advent Pro', sans-serif;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style-type: none;
+}
+h2 {
+  text-transform: uppercase;
+  padding-top: 30px;
+  font-size: 2em;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+/********************   NAVBAR   ************************/
+nav {
+  overflow: hidden;
+  background-color: rgb(255, 174, 107);
+  position: fixed;
+  width: 100%;
+  opacity: 0.8;
+}
+header li {
+  float: right;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+header li, a {
+  text-decoration: none;
+  display: block;
+  padding: 8px 10px;
+}
+#logo {
+  font-family: 'Cinzel', cursive;
+  font-size: 1.6em;
+  font-weight: bold;
+  float: left;
+}
+/***************   IMAGE PRINCIPALE   *******************/
+#imagePrincipale {
+  padding-top: 60px;
+  background: url(media/spaceView.jpg) no-repeat fixed 70% 90%;
+  background-size: cover;
+  height: 799px;
+}
+h1 {
+  font-family: 'Cinzel', cursive;
+  color: rgb(155, 0, 0);
+  font-size: 6em;
+  margin-top: 150px;
+  text-shadow: 1px 3px 2px greenyellow;
+}
+#premierTrait {
+  height: 1px;
+  width: 25%;
+  margin: -2px auto;
+  background-color: rgb(217, 255, 0);
+}
+h3 {
+  color: rgb(155, 0, 0);
+  font-size: 3em;
+  text-shadow: 1px 2px 1px greenyellow;
+}
+audio {
+  border: 1px solid #a41c1c;
+  float: right;
+}  
+/***************   PRESENTATION   *******************/
+#presentation {
+  background-color: rgb(255, 174, 107);
+  padding: 10px 0px 100px 0px;
+}
+#textIntro {
+  padding: 0px 20%;
+  font-weight: bold;
+}
+#prestations {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 30px 25%;
+}
+.imagePrestations {
+  font-family: 'Cinzel', cursive;
+  font-size: 1.5em;
+  margin: 15px;
+  font-weight: 300;
+}
+.imagePrestations img {
+  border-radius: 5%;
+  box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(255, 0, 0, 0.57);
+}
+.imagePrestations img:hover {
+  opacity: 0.5;
+  transform: scale(1.05);
+  transition: 0.8s ease-in-out;
+}
+#biomes {
+  height: 1400px;
+  background-color: rgb(255, 197, 89);
+  padding: 1px 2%;
+}
+#biomes h2 {
+  padding-top: 60px;
+}
+#seaBiom {
+  background: url(media/seaBiom.jpg);
+}
+#desertBiom {
+  background: url(media/desertBiom.jpg);
+}
+#greenBiom {
+  background: url(media/greenBiom.jpg);
+}
+#iceBiom {
+  background: url(media/iceBiom.jpg);
+}
+#biomes li {
+  margin: 65px 100px 0 100px;
+  height: 226px;
+  width: 55%;
+  max-width: 550px;
+  float: left;
+  box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(13,255,24,0.57);
+}
+#biomes p {
+  height: 45px;
+  width: 235px;
+  background-color: rgb(154, 154, 243);
+  float: right;
+  margin: 50px -180px 0 0;
+  font-size: 1.5em;
+  font-weight: bold;
+  padding-top: 15px;
+  box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(13,255,24,0.57);
+}
